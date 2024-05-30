@@ -10,6 +10,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 I am a Full Stack Developer with 1+ years of experience in developing enterprise applications and open-source software.
 
-### :octocat: &nbsp; GitHub Status
+###  :octocat: &nbsp; GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1917NW&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
