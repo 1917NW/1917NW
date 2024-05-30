@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Next.js, Tauri,
 - 💬 &nbsp;Ask me about anything related to C++/Java/JavaScript
-- ⚡ &nbsp;Fun fact: I :heart: 🐱:s and Steam Gaming
+- ⚡ &nbsp;Fun fact: I :heart: 🐱 and 🎮
 
 ### ✨&nbsp; About Me
 
