@@ -9,5 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 ### ✨&nbsp; About Me
 
 I am a Full Stack Developer with 1+ years of experience in developing enterprise applications and open-source software.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1917NW&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+### :octocat: GitHub Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1917NW&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
